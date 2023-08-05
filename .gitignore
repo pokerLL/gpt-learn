@@ -1,0 +1,92 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyc
+*.egg-info/
+dist/
+build/
+*.egg
+pip-log.txt
+*.whl
+
+# Jupyter Lab
+.ipynb_checkpoints/
+.jupyter/
+.jupyterlab/
+
+# Virtual environments
+env/
+venv/
+env.bak/
+venv.bak/
+.env/
+
+# Logs
+*.log
+
+# Cache and temp files
+.cache/
+*.swp
+*.swo
+*.swp
+*~
+
+# Editor specific
+.vscode/
+.idea/
+*.sublime*
+*.code-workspace
+
+# Compiled files
+*.o
+*.lo
+*.slo
+*.la
+*.a
+*.lai
+*.loT
+*.class
+*.lib
+*.dll
+*.so
+*.so.*
+*.dylib
+*.exe
+*.com
+*.out
+*.app
+
+# OS and IDE generated files
+.DS_Store
+Thumbs.db
+Icon?
+ehthumbs.db
+desktop.ini
+*.sln
+*.vcxproj
+*.vspscc
+*.vssscc
+*.dll.config
+*.cache
+*.suo
+*.user
+*.opensdf
+*.xcodeproj/
+*.xcworkspace/
+*.xcuserdata/
+
+# Environment files
+*.env
+*.env.*
+*.env.local
+*.env.development
+*.env.test
+*.env.production
+
+# Build output
+/dist/
+
