@@ -90,3 +90,7 @@ desktop.ini
 # Build output
 /dist/
 
+
+# model
+*.gz
+*.bin
